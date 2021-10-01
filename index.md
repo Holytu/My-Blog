@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to JeffTu GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/Holytu/My-Blog/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
