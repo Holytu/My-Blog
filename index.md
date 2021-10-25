@@ -4,9 +4,9 @@ Learning List:
 3. Others
 
 Computer Science:
-1. Algorithm 
-    a. Sorting : Bubble sort, Insertion sort, Selection sort, Merge Sort, Quick sort, Heap sort\n
-    
+1. Algorithm <br />
+    a. Sorting : Bubble sort, Insertion sort, Selection sort, Merge Sort, Quick sort, Heap sort
+
     b. Search : Binary search tree(Insert, Inorder)
 2. Data Structure
 
