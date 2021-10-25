@@ -6,7 +6,7 @@ Learning List:
 Computer Science:
 1. Algorithm <br />
     a. Sorting : Bubble sort, Insertion sort, Selection sort, Merge Sort, Quick sort, Heap sort<br />
-    b. Search : Binary search tree(Insert, Inorder)
+    b. Search : Binary search tree(Insert, Inorder,Preorder,Postorder)<br />
 2. Data Structure
 
 Stocks/Bond:
