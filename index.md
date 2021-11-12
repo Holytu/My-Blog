@@ -8,7 +8,6 @@ Computer Science:
     a. Sorting : Bubble sort, Insertion sort, Selection sort, Merge sort, Quick sort, Heap sort, Counting sort, Radix sort<br />
     <br />b. Search : Binary search tree(Insert, Inorder,Preorder,Postorder), Depth First Search(DFS), Breadth First Search(BFS)<br />
     <br />c. Djikstra's algorithm <br />
-    
     <br />d. Minimun spanning tree(MST) : 
         1. Kruskal algorithm
         2. Prim's algorithm<br />
